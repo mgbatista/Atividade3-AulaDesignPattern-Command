@@ -1,0 +1,7 @@
+C:\Aulas HTML André\Atividade3-AulaDesignPattern-Command\DesignPatternCommand\DesignPatternCommand\bin\Debug\DesignPatternCommand.exe.config
+C:\Aulas HTML André\Atividade3-AulaDesignPattern-Command\DesignPatternCommand\DesignPatternCommand\bin\Debug\DesignPatternCommand.exe
+C:\Aulas HTML André\Atividade3-AulaDesignPattern-Command\DesignPatternCommand\DesignPatternCommand\bin\Debug\DesignPatternCommand.pdb
+C:\Aulas HTML André\Atividade3-AulaDesignPattern-Command\DesignPatternCommand\DesignPatternCommand\obj\Debug\DesignPatternCommand.csprojAssemblyReference.cache
+C:\Aulas HTML André\Atividade3-AulaDesignPattern-Command\DesignPatternCommand\DesignPatternCommand\obj\Debug\DesignPatternCommand.csproj.CoreCompileInputs.cache
+C:\Aulas HTML André\Atividade3-AulaDesignPattern-Command\DesignPatternCommand\DesignPatternCommand\obj\Debug\DesignPatternCommand.exe
+C:\Aulas HTML André\Atividade3-AulaDesignPattern-Command\DesignPatternCommand\DesignPatternCommand\obj\Debug\DesignPatternCommand.pdb
